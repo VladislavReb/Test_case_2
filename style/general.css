@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif, Arial;
+  background-color: #FFFFFF;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.container {
+  display: flex;
+  max-width: 1530px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=general.css.map */

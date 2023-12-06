@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Lobster&family=Montserrat:wght@200;300;400&family=Open+Sans:wght@300;400&family=Paytone+One&family=Poppins:wght@300;400;600&display=swap');
+
+$text_color: #9197B3;
+$active_color: #5932EA;
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Poppins, sans-serif;
+}
+
+body {
+  background-color: #fafbff;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.container {
+  display: flex;
+  max-width: 1530px;
+  margin: 0 auto;
+  overflow: hidden;
+}
